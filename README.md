@@ -1,4 +1,4 @@
-# Fraud-Detection-for-NY-Property
+# Unsupervised Fraud Detection for NY Property
 This project is to identify potential fraud records New York property using **unsupervised methods**.
 
 # Overview
